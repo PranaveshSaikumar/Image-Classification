@@ -105,11 +105,13 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/b7b07b0f-fe55-4280-9c0f-904628d221f5)
+![image](https://github.com/user-attachments/assets/2e3a9789-9972-4b30-8ad2-e99078ab9067)
+
 
 ### Classification Report
 
-![image](https://github.com/user-attachments/assets/1756d140-75cb-4b3a-bd92-11743d1ae4c1)
+![image](https://github.com/user-attachments/assets/3bbf15da-b77c-4294-bfde-aba729b6e978)
+
 
 ### New Sample Data Prediction
 
